@@ -1,0 +1,67 @@
+[
+  {
+    "platform": "Supwin",
+    "links": [
+      "https://www.supwin.in/#/redenvelopes?r_code=0Un0KxjL&code=979b6e7597526bcf",
+      "https://www.supwin.in/#/redenvelopes?r_code=0Un0KxjL&code=3328814365b93e65"
+    ],
+    "order": 1,
+    "registerLink": "https://www.supwin.in/#/register?r_code=0Un0KxjL"
+  },
+  {
+    "platform": "PrimeClub",
+    "links": [
+      "https://primeclub.app/lucky/lifafa/id?no=LIFA1123082306093715"
+    ],
+    "order": 2,
+    "registerLink": "https://primeclub.app/client?1&c=28274847"
+  },
+  {
+    "platform": "VClub",
+    "links": [
+      "https://www.vclub.asia/#/redenvelopes?r_code=tJ7dBaRC&code=9ce1e360eacfd7df",
+      "https://www.vclub.asia/#/redenvelopesrandom?r_code=tJ7dBaRC&code=4c4793160e42bd00&idx=6",
+      "https://www.vclub.asia/#/redenvelopes?r_code=tJ7dBaRC&code=8b7573ae64e8a98d"
+    ],
+    "order": 3,
+    "registerLink": "https://www.vclub.asia/#/register?r_code=tJ7dBaRC"
+  },
+  {
+    "platform": "",
+    "links": [],
+    "order": 4,
+    "registerLink": "https://wclub.in/#/register?r_code=qU8Nnnyw"
+  },
+  {
+    "platform": "",
+    "links": [
+      "https://www.miwin.in/#/redenvelopes?r_code=1pPL9iTr&code=7116751727e0f71d"
+    ],
+    "order": 5,
+    "registerLink": "https://www.miwin.in/#/register?r_code=1pPL9iTr"
+  },
+  {
+    "platform": "Yoswin",
+    "links": [
+      "https://yoswin.com?c=$GF6UNK",
+      "https://yoswin.com?c=$DS8SG6"
+    ],
+    "order": 6,
+    "registerLink": "https://yoswin.com/?invite=N7K3JT"
+  },
+  {
+    "platform": "FastWin",
+    "links": [
+      "http://fastwin.app/lucky/lifafa/id?no=LIFA342380172304130502",
+      "http://fastwin.app/lucky/lifafa/id?no=LIFA342380112304205635"
+    ],
+    "order": 7,
+    "registerLink": "https://fastwin.one/LR?RG&C=29884923"
+  },
+  {
+    "platform": "",
+    "links": [],
+    "order": 8,
+    "registerLink": "https://dragonmall.app/LR?RG&C=9B387628L"
+  }
+]
