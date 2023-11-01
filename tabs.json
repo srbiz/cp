@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tricky Trend",
+    "icon": "mdi-podium",
+    "color": "deep-purple accent-3"
+  },
+  {
+    "name": "Platforms",
+    "icon": "mdi-view-grid",
+    "color": "yellow"
+  },
+  {
+    "name": "",
+    "icon": "mdi-numeric",
+    "color": "pink"
+  },
+  {
+    "name": "",
+    "icon": "mdi-gamepad-square",
+    "color": "deep-purple darken-1"
+  }
+]
