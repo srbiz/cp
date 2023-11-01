@@ -15,8 +15,20 @@
     "userPredictMaintenance": 0,
     "shareUrl": "https://colorpredict.netlify.app/",
     "showPromoDialog": 1,
-    "platformNames": "[\"FastWin\", \"VClub\", \"Mantrigame\", \"Yoswin\"]",
-    "games": "[\"Fast Parity\", \"Parity\", \"Sapre\", \"Bcone\", \"Emerd\", \"Andar Bahar\"]",
+    "platformNames": [
+      "FastWin",
+      "VClub",
+      "Mantrigame",
+      "Yoswin"
+    ],
+    "games": [
+      "Fast Parity",
+      "Parity",
+      "Sapre",
+      "Bcone",
+      "Emerd",
+      "Andar Bahar"
+    ],
     "luckyBackground": "",
     "contributeText": "❤️Support",
     "telegram": "https://t.me/colorfinder"
