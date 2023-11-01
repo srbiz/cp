@@ -1,0 +1,18 @@
+[
+  {
+    "amount": 100,
+    "color": "pink"
+  },
+  {
+    "amount": 200,
+    "color": "success"
+  },
+  {
+    "amount": 300,
+    "color": "primary"
+  },
+  {
+    "amount": 500,
+    "color": "info"
+  }
+]
