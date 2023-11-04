@@ -10,13 +10,103 @@
     "color": "yellow"
   },
   {
-    "name": "",
-    "icon": "mdi-numeric",
-    "color": "pink"
+    "name": "Red Green",
+    "icon": "mdi-circle-opacity",
+    "color": "purple accent-4"
+  },
+  {
+    "name": "Slot Machine",
+    "icon": "mdi-slot-machine",
+    "color": "cyan"
+  },
+  {
+    "name": "Prediction",
+    "icon": "mdi-crosshairs-question",
+    "color": "success"
+  },
+  {
+    "name": "Minesweeper",
+    "icon": "mdi-bomb",
+    "color": "red"
   },
   {
     "name": "",
     "icon": "mdi-gamepad-square",
     "color": "deep-purple darken-1"
+  },
+  {
+    "name": "",
+    "icon": "mdi-crosshairs-gps",
+    "color": "success"
+  },
+  {
+    "name": "Number",
+    "icon": "mdi-numeric",
+    "color": "pink"
+  },
+  {
+    "name": "Crash",
+    "icon": "mdi-rocket-launch-outline",
+    "color": "amber"
+  },
+  {
+    "name": "Quick Message",
+    "icon": "mdi-message-text-fast-outline",
+    "color": "primary"
+  },
+  {
+    "name": "",
+    "icon": "mdi-ship-wheel",
+    "color": "error"
+  },
+  {
+    "name": "Promotional",
+    "icon": "mdi-wan",
+    "color": "yellow"
+  },
+  {
+    "name": "Settings",
+    "icon": "mdi-cog",
+    "color": "blue"
+  },
+  {
+    "name": "About",
+    "icon": "mdi-information-variant",
+    "color": "purple"
+  },
+  {
+    "name": "Andar Bahar",
+    "icon": "mdi-cards-playing-outline",
+    "color": "amber"
+  },
+  {
+    "name": "",
+    "icon": "mdi-image",
+    "color": "orange lighten-1"
+  },
+  {
+    "name": "123Dice",
+    "icon": "mdi-dice-6-outline",
+    "color": "teal"
+  },
+  {
+    "name": "Help",
+    "icon": "mdi-help",
+    "color": "orange"
+  },
+  {
+    "name": "Terms",
+    "icon": "mdi-alert-circle-check-outline",
+    "color": "indigo"
+  },
+  {
+    "name": "History",
+    "icon": "mdi-history",
+    "color": "blue"
+  },
+  {
+    "name": "Dice",
+    "icon": "mdi-dice-multiple-outline",
+    "color": "warning"
   }
 ]
