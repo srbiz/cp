@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "AKSHAY KUMAR",
+    "rupees": 10
+  },
+  {
+    "id": 2,
+    "name": "SHIAK SABERA",
+    "rupees": 10
+  },
+  {
+    "id": 3,
+    "name": "RICKY LALSANGZU",
+    "rupees": 100
+  },
+  {
+    "id": 4,
+    "name": "THALLA NARASIMH",
+    "rupees": 10
+  },
+  {
+    "id": 5,
+    "name": "ANIL DHARMAJEE",
+    "rupees": 10
+  },
+  {
+    "id": 6,
+    "name": "VYSHAKH E",
+    "rupees": 50
+  }
+]
