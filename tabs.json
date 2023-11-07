@@ -1,110 +1,132 @@
 [
   {
+    "index": 0,
     "name": "Tricky Trend",
     "icon": "mdi-podium",
     "color": "deep-purple accent-3"
   },
   {
+    "index": 1,
     "name": "Platforms",
     "icon": "mdi-view-grid",
     "color": "yellow"
   },
   {
+    "index": 2,
     "name": "Red Green",
     "icon": "mdi-circle-opacity",
     "color": "purple accent-4"
   },
   {
+    "index": 3,
     "name": "Slot Machine",
     "icon": "mdi-slot-machine",
     "color": "cyan"
   },
   {
+    "index": 4,
     "name": "Prediction",
     "icon": "mdi-crosshairs-question",
     "color": "success"
   },
   {
+    "index": 5,
     "name": "Minesweeper",
     "icon": "mdi-bomb",
     "color": "red"
   },
   {
+    "index": 6,
     "name": "",
     "icon": "mdi-gamepad-square",
     "color": "deep-purple darken-1"
   },
   {
+    "index": 7,
     "name": "",
     "icon": "mdi-crosshairs-gps",
     "color": "success"
   },
   {
+    "index": 8,
     "name": "Number",
     "icon": "mdi-numeric",
     "color": "pink"
   },
   {
+    "index": 9,
     "name": "Crash",
     "icon": "mdi-rocket-launch-outline",
     "color": "amber"
   },
   {
+    "index": 10,
     "name": "Quick Message",
     "icon": "mdi-message-text-fast-outline",
     "color": "primary"
   },
   {
+    "index": 11,
     "name": "",
     "icon": "mdi-ship-wheel",
     "color": "error"
   },
   {
+    "index": 12,
     "name": "Promotional",
     "icon": "mdi-wan",
     "color": "yellow"
   },
   {
+    "index": 13,
     "name": "Settings",
     "icon": "mdi-cog",
     "color": "blue"
   },
   {
+    "index": 14,
     "name": "About",
     "icon": "mdi-information-variant",
     "color": "purple"
   },
   {
+    "index": 15,
     "name": "Andar Bahar",
     "icon": "mdi-cards-playing-outline",
     "color": "amber"
   },
   {
+    "index": 16,
     "name": "",
     "icon": "mdi-image",
     "color": "orange lighten-1"
   },
   {
+    "index": 17,
     "name": "123Dice",
     "icon": "mdi-dice-6-outline",
     "color": "teal"
   },
   {
+    "index": 18,
     "name": "Help",
     "icon": "mdi-help",
     "color": "orange"
   },
   {
+    "index": 19,
     "name": "Terms",
     "icon": "mdi-alert-circle-check-outline",
     "color": "indigo"
   },
   {
+    "index": 20,
     "name": "History",
     "icon": "mdi-history",
     "color": "blue"
   },
   {
+    "index": 21,
     "name": "Dice",
     "icon": "mdi-dice-multiple-outline",
     "color": "warning"
