@@ -1,18 +1,1 @@
-[
-  {
-    "amount": 100,
-    "color": "pink"
-  },
-  {
-    "amount": 200,
-    "color": "success"
-  },
-  {
-    "amount": 300,
-    "color": "primary"
-  },
-  {
-    "amount": 500,
-    "color": "info"
-  }
-]
+[{"id":1,"amount":100,"color":"pink"},{"id":2,"amount":200,"color":"success"},{"id":3,"amount":300,"color":"primary"},{"id":4,"amount":500,"color":"info"}]
