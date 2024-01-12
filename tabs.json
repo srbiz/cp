@@ -1,18 +1,1 @@
-[
-  {
-    "id": 22,
-    "name": "Tricky Trend",
-    "icon": "mdi-podium",
-    "color": "deep-purple accent-3",
-    "disabled": false,
-    "order": 1
-  },
-  {
-    "id": 18,
-    "name": "Platforms",
-    "icon": "mdi-view-grid",
-    "color": "yellow",
-    "disabled": false,
-    "order": 2
-  }
-]
+[{"id":22,"name":"Tricky Trend","icon":"mdi-podium","color":"deep-purple accent-3","disabled":false,"order":1},{"id":18,"name":"Platforms","icon":"mdi-view-grid","color":"yellow","disabled":false,"order":2}]
